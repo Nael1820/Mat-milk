@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tom idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "OH",
+			"loop": false,
+			"name": "OH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tom",
+	"position": [
+		-140,
+		10
+	],
+	"healthicon": "matt",
+	"flip_x": false,
+	"healthbar_colors": [
+		187,
+		70,
+		204
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

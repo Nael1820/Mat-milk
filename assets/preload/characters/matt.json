@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MattIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MattLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-85
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MattDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MattUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MattRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				86,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "da fuck",
+			"indices": [],
+			"name": "lol"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bruh",
+			"loop": true,
+			"name": "bruh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt",
+	"position": [
+		50,
+		50
+	],
+	"healthicon": "matt",
+	"flip_x": false,
+	"healthbar_colors": [
+		187,
+		70,
+		204
+	],
+	"camera_position": [
+		90,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
