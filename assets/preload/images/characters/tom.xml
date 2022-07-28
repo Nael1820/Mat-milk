@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tom.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OH instancia 10000" x="1" y="1" width="871" height="628" frameX="0" frameY="-20" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="OH instancia 10001" x="1" y="1" width="871" height="628" frameX="0" frameY="-20" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="OH instancia 10002" x="873" y="1" width="871" height="632" frameX="0" frameY="-16" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="OH instancia 10003" x="873" y="1" width="871" height="632" frameX="0" frameY="-16" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="OH instancia 10004" x="1" y="634" width="871" height="639" frameX="0" frameY="-9" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="OH instancia 10005" x="1" y="634" width="871" height="639" frameX="0" frameY="-9" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="OH instancia 10006" x="873" y="634" width="871" height="642" frameX="0" frameY="-6" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="OH instancia 10007" x="873" y="634" width="871" height="642" frameX="0" frameY="-6" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="OH instancia 10008" x="1" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10009" x="1" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10010" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10011" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10012" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10013" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10014" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10015" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10016" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10017" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10018" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10019" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10020" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10021" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10022" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10023" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10024" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10025" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10026" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="OH instancia 10027" x="873" y="1277" width="871" height="648"/>
+	<SubTexture name="tom idle instancia 10000" x="1" y="1926" width="871" height="637" frameX="0" frameY="-11" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="tom idle instancia 10001" x="1" y="1926" width="871" height="637" frameX="0" frameY="-11" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="tom idle instancia 10002" x="873" y="1926" width="871" height="645" frameX="0" frameY="-3" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="tom idle instancia 10003" x="873" y="1926" width="871" height="645" frameX="0" frameY="-3" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="tom idle instancia 10004" x="1" y="2572" width="871" height="646" frameX="0" frameY="-2" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="tom idle instancia 10005" x="1" y="2572" width="871" height="646" frameX="0" frameY="-2" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="tom idle instancia 10006" x="873" y="2572" width="871" height="646" frameX="0" frameY="-2" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="tom idle instancia 10007" x="873" y="2572" width="871" height="646" frameX="0" frameY="-2" frameWidth="871" frameHeight="648"/>
+	<SubTexture name="tom idle instancia 10008" x="1" y="3219" width="871" height="648"/>
+	<SubTexture name="tom idle instancia 10009" x="1" y="3219" width="871" height="648"/>
+	<SubTexture name="tom idle instancia 10010" x="1" y="3219" width="871" height="648"/>
+	<SubTexture name="tom idle instancia 10011" x="1" y="3219" width="871" height="648"/>
+	<SubTexture name="tom idle instancia 10012" x="1" y="3219" width="871" height="648"/>
+	<SubTexture name="tom idle instancia 10013" x="1" y="3219" width="871" height="648"/>
+</TextureAtlas>
